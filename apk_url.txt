@@ -1,3 +1,1 @@
-# Paste your direct APK download URL on the next line (replace the example).
-# Get it from APKMirror > Hotstar > latest version > arm64-v8a > download page > copy the final .apk link
-https://www.apkmirror.com/wp-content/uploads/2025/01/example.apk
+https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2026/06/63/6a33f431a2099/in.startv.hotstar_26.06.08.2-12719_4arch_7dpi_24lang_4fe52f6a8f350ad8d8f3c6ce17a43f4a_apkmirror.com.apkm?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090812Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=48ba539875b3d7e1bb8cad9d2a91b671f697e22a81a5059529b8751a89e8fbc6
