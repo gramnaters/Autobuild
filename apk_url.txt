@@ -1,0 +1,3 @@
+# Paste your direct APK download URL on the next line (replace the example).
+# Get it from APKMirror > Hotstar > latest version > arm64-v8a > download page > copy the final .apk link
+https://www.apkmirror.com/wp-content/uploads/2025/01/example.apk
